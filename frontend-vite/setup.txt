@@ -1,0 +1,25 @@
+# Instructions:
+
+1. Creating frontend of the project with React.js
+2. Usually we use CRA (Create React App) package to built React project.
+3. But we have better solution,
+    Use VITE -> front-end tool to quickly start a project from a basic template for popular frameworks.
+
+4. [CMD] cd main folder
+5. [CMD] npm create vite@latest
+5. [CMD] "Type project-name"
+6. [CMD] Select React
+7. [CMD] Select JavaScript
+8. [CMD] cd "project-name"
+9. [CMD] npm i (To install necessary packages with npm)
+
+10. Now, go to tailwindcss.com
+11. Select Vite as the frameworks
+12. Install tailwindcss, [CMD] npm install -D tailwindcss postcss autoprefixer
+13. [CMD] npx tailwindcss init -p
+14. Copy "content" to tailwind.config.js
+15. Delete every thing in index.css and paste the new lines from website.
+16. Delete App.css file
+17. Edit App.jsx file with new import.
+
+18. [CMD] run "npm run dev" to test server
