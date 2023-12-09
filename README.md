@@ -1,7 +1,6 @@
 # BookStore-MERN-App
 A simple book store app project with MERN (MongoDB, ExpressJS, ReactJS, Node.js) stack.
 
-![image](https://github.com/ankurRangi/BookStore-MERN-App/assets/32847436/5a314811-9762-488c-9f7b-e252f4ccafe2)
 
 ## Home Page
 ![image](https://github.com/ankurRangi/BookStore-MERN-App/assets/32847436/0f90137f-ba3f-408e-bdd4-205a04d56c96)
