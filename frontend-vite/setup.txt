@@ -23,3 +23,13 @@
 17. Edit App.jsx file with new import.
 
 18. [CMD] run "npm run dev" to test server
+
+19. Add new router package to create SPA i.e. Single Page Application
+20. [CMD] npm i react-router-dom
+
+
+.... 
+
+1. [CMD] npm i axios react-icons
+2. axios is used to make HTTP request and react-icons are used for its icons
+3. 
